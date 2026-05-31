@@ -7,7 +7,7 @@ Une carte d'interface web "Showcase" moderne et minimaliste conçue pour mettre 
 HTML/CSS showcase for Blender asset. Built in 10min Day 7 #100DaysOfCode.
 
 **Stack:** HTML5 Semantic + CSS3 + Blender 5.1
-**Live:** cedricboucard.github.io/low-poly-ship-card/
+**Live:** [cedricboucard.github.io/low-poly-ship-card/](https://cedricboucard.github.io/lowpoly-ship/)
 
 **Day 7 Triple Ship:** HTML/CSS + Blender + Showcase
 
@@ -18,6 +18,3 @@ Blender 5.1 | Cycle| Following tutorial by [Polygon Runway
 # Screenshot 
 ![screenshot](screenshot.png)
 
-## Live Demo 
-
-https://cedricboucard.github.io/lowpoly-ship/
