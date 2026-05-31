@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #12161a;
+    margin: 0;
+    padding: 20px;
+}
+.main-container {
+    background-color: #1a2129;
+    border: 1px solid #25303d;
+    border-radius: 12px;
+    padding: 25px;
+    max-width: 450px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+figure {
+    margin: 0;
+}
+
+.ship-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.title {
+    color: #fff;
+    margin-top: 20px;
+}
+.description {
+    color: #ccc;
+    margin-top: 10px;
+}
+.properties {
+    color: #ccc;
+    margin-top: 10px;
+}
+.property {
+    display: inline-block;
+    background-color: #555;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+.action-button {
+    background-color: #a30b0b;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.action-button:hover {
+    background-color: #d32f2f;
+}  
+
+.action-button:active {
+    background-color: #7a0909;
+    transform: scale(0.98);
+}
+
